@@ -23,10 +23,10 @@ Combat veteran of the Russian-Ukrainian war — served as **Platoon Commander** 
 - 🤖 AI-assisted multi-agent security workflows (Claude, Gemini, Groq)
 - 🌐 Router & network penetration testing tools
 - 🎓 Master's research: 
-    - State-Space Mathematical Model of X-Configuration UAV Quadrotor in the Roll Channel
-    - Discrete Kalman Filter for State Estimation of X-Configuration UAV Quadrotor in the Roll Channel
-    - Synthesis of Roll Angle Stabilization Law for UAV Quadrotor with PI-Controller and Anti-Windup Correction
-    - AI methods in cybersecurity
+                        - State-Space Mathematical Model of X-Configuration UAV Quadrotor in the Roll Channel
+                        - Discrete Kalman Filter for State Estimation of X-Configuration UAV Quadrotor in the Roll Channel
+                        - Synthesis of Roll Angle Stabilization Law for UAV Quadrotor with PI-Controller and Anti-Windup Correction
+                        - AI methods in cybersecurity
 
 ---
 
