@@ -1,85 +1,86 @@
-<div align="center">
+# Hi, I'm Yevhen Volovyk 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI-Powered+Security+Analyst;Network+Security+%7C+Android+Dev;KHAI+Aerospace+Engineer" alt="Typing SVG" />
-
-</div>
-
----
-
-## Про мене
-
-Студент **«ХАІ»** Національний Аерокосмічний Університет "Харківський Авіаційний інститут" спеціалізуюсь  на  **AI-автоматизації** та мережевій безпеці.
-
-Будую інструменти, які роблять security-аудит швидшим і розумнішим — завдяки мультимодельному AI-стеку (Claude + Gemini + Groq) та власним automation pipelines.
-
-- Провів повний security-аудит локальної мережі з D → B+ за 2 дні (27 знахідок, всі закриті)
-- Розробив Android-застосунок для Wi-Fi security scanning (Kotlin/MVVM)
-- Налаштував Multi-AI workflow з 9 кастомними агентами для автоматизації аудиту
-
----
-
-## Стек
-
-**Security**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![nmap](https://img.shields.io/badge/nmap-4682B4?style=flat&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-
-**AI & Automation**
-
-![Claude](https://img.shields.io/badge/Claude_Code-D97706?style=flat&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-00A67E?style=flat)
-
-**Mobile & Dev**
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
----
-
-## Ключові проекти
-
-### [WiFi Security Auditor](https://github.com/yyvolovyk-1983-edu/wifi-security-auditor)
-> Android-застосунок для аудиту безпеки Wi-Fi мереж
-
-- Сканування і класифікація мереж (WEP/WPA/WPA2/WPA3/WPS)
-- Port scanner, Host Discovery, Anomaly Detection (evil twin, honeypot)
-- Kotlin · MVVM · Coroutines · Material3
-
-### [Router Security Toolkit](https://github.com/yyvolovyk-1983-edu/router-security-toolkit)
-> Набір Python-інструментів для аудиту роутерів
-
-- HTTP path scanner (Boa HTTPd, Netis, LuCI)
-- CVE backdoor tester (CVE-2015-0552 Netcore/Netis)
-- UPnP/SSDP discovery · SSL/TLS analyzer
-- Python · socket · urllib · ssl
-
-### [video-to-gif](https://github.com/yyvolovyk-1983-edu/video-to-gif)
-> Конвертер відео → GIF через OpenCV + Pillow
-
-- Python · OpenCV · Pillow
-
----
-
-## Поточний фокус
-
-```
-🔐  AI-assisted network security audits
-🤖  Multi-AI workflow (Claude + Gemini + Groq hooks)
-📱  WiFi Security Auditor → Google Play
-```
-
----
-
-## Зв'язок
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/євген-євгенович-воловик-b9a77b409)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yyvolovyk-1983-edu)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:y.y.volovyk@student.khai.edu)
+**Network Security · Systems Administration · AI-Assisted Auditing**
 
 > *"Security is not a product, but a process."* — Bruce Schneier
+
+---
+
+## About Me
+
+Telecommunications engineer and security practitioner based in **Kharkiv, Ukraine**.  
+Currently pursuing a **Master's degree** in Intelligent Control Systems at **KHAI** — National Aerospace University "Kharkiv Aviation Institute" (2025–2027).
+
+Over **10 years** of hands-on experience in telecom infrastructure (Kyivstar, WinSERVICE Ukraine), network administration, and practical security work.  
+Combat veteran of the Russian-Ukrainian war — served as **Platoon Commander** (2023–2024, Donetsk front) and previously in 2014 (Donetsk & Luhansk regions).
+
+---
+
+## Current Focus
+
+- 🔐 Windows security hardening & PowerShell automation
+- 📶 Wi-Fi security auditing (Android app — targeting Google Play deployment)
+- 🤖 AI-assisted multi-agent security workflows (Claude, Gemini, Groq)
+- 🌐 Router & network penetration testing tools
+- 🎓 Master's research: AI methods in cybersecurity
+
+---
+
+## Technical Stack
+
+**Security & Networking**  
+`Python` `PowerShell` `Bash` `nmap` `Wireshark` `Tcpdump`  
+`TCP/IP` `OSI` `VLAN` `VPN` `Firewall` `NAT` `DHCP`  
+`MikroTik / RouterOS` `Zabbix` `FTTB` `PON` `Ethernet`  
+Penetration testing basics · DDoS mitigation · Windows hardening
+
+**AI & Automation**  
+`Claude` `Gemini` `Groq` · Multi-agent workflows · Security audit automation
+
+**Development**  
+`Kotlin` `Android (MVVM)` `Java` `Python` `Selenium` `OpenCV`
+
+**Systems**  
+`Linux (Ubuntu, Debian, Fedora)` `Windows` `MATLAB` `Simulink`  
+Fiber optic splicing · SCS installation · Telecom infrastructure
+
+---
+
+## Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [windows-security-audit](https://github.com/yyvolovyk-1983-edu/windows-security-audit) | PowerShell hardening: unauthorized account detection, SMB/RDP lockdown, audit logging, Defender automation | PowerShell |
+| [wifi-security-auditor](https://github.com/yyvolovyk-1983-edu/wifi-security-auditor) | Android app: evil twin detection, port scanning, network classification | Kotlin / MVVM |
+| [router-security-toolkit](https://github.com/yyvolovyk-1983-edu/router-security-toolkit) | HTTP path scanning, CVE backdoor testing, UPnP/SSDP discovery | Python |
+| [java-selenium-pageobject](https://github.com/yyvolovyk-1983-edu/java-selenium-pageobject) | PageObject pattern, test suite architecture | Java |
+| [video-to-gif](https://github.com/yyvolovyk-1983-edu/video-to-gif) | Video-to-GIF conversion with frame control | Python / OpenCV |
+
+---
+
+## Work Experience
+
+| Period | Role | Company |
+|--------|------|---------|
+| 03.2024 – 04.2026 | Telecom Technician | **Kyivstar**, Kharkiv |
+| 03.2023 – 05.2024 | Platoon Commander | **Ukrainian Defense Forces** |
+| 11.2018 – 03.2023 | ISP Technician | **WinSERVICE Ukraine**, Kharkiv |
+| 07.2012 – 09.2014 | Service Engineer | **MasterService**, Kharkiv |
+
+---
+
+## Education
+
+| Degree | Institution | Year |
+|--------|-------------|------|
+| 🎓 M.Sc. — Intelligent Control Systems | KHAI (National Aerospace University) | 2025–2027 |
+| 🎖️ Combat application of mechanized units | National Army Academy (Lviv) | 2023 |
+| 🎓 B.Sc. — Economics | KHAI | 2002–2007 |
+| 📜 "Applying Technologies in Wartime" | Prometheus | 2023 |
+
+---
+
+## Contact
+
+📧 y.y.volovyk@student.khai.edu  
+📍 Kharkiv, Ukraine
