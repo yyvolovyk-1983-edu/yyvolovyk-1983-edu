@@ -1,6 +1,6 @@
 # Hi, I'm Yevhen Volovyk 👋
 
-**Network Security · Systems Administration · AI-Assisted Auditing**
+**Network Engineer · Systems Administration · AI-Assisted Auditing**
 
 > *"Security is not a product, but a process."* — Bruce Schneier
 
