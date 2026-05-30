@@ -2,12 +2,13 @@
 
 # Євген Воловик · Yevhen Volovyk
 
-### Network Security Auditor | Telecom Engineer | MikroTik Specialist
+### Network Security Auditor | MikroTik · Kyivstar | Kharkiv, Ukraine
 
-*10+ років у телекомунікаціях · Kyivstar · Ветеран ЗСУ · Харків, Україна*
+*10+ років у телекомунікаціях · Ветеран ЗСУ · M.Sc. KHAI 2025–2027*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yevhen-volovyk/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:y.y.volovyk@student.khai.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yyvolovyk-1983-edu)
 
 </div>
 
@@ -15,14 +16,15 @@
 
 ## Що роблю
 
-Проводжу **авторизований аудит безпеки** локальних мереж та пристроїв для малого і середнього бізнесу. Результат — технічний звіт з конкретними рекомендаціями та пріоритетами усунення.
+Проводжу **авторизований аудит безпеки** локальних мереж та пристроїв для малого і середнього бізнесу.  
+Результат — технічний звіт з класифікацією вразливостей та конкретними кроками усунення.
 
 | Напрямок | Що перевіряю | Інструменти |
 |---|---|---|
 | **LAN аудит** | Відкриті порти, сервіси, сегментація | nmap · Wireshark · Netdiscover |
 | **Wi-Fi безпека** | Шифрування, ізоляція, несанкціоновані точки | Aircrack-ng · Android аудитор |
-| **Пристрої мережі** | Роутери, свічі, MikroTik — дефолтні паролі, відомі CVE | RouterOS · Python toolkit |
-| **Windows endpoint** | Служби, автозапуск, права, оновлення | PowerShell audit scripts |
+| **Пристрої мережі** | Роутери, свічі, MikroTik — дефолтні паролі, CVE | RouterOS · Python toolkit |
+| **Windows endpoint** | Служби, автозапуск, права, логування | PowerShell audit scripts |
 
 ---
 
@@ -47,13 +49,17 @@
 ## Ключові проекти
 
 ### [windows-security-audit](https://github.com/yyvolovyk-1983-edu/windows-security-audit)
-PowerShell-скрипти для автоматичного аудиту безпеки Windows-машин — порти, служби, права, автозапуск, брандмауер.
-
-### [wifi-security-auditor](https://github.com/yyvolovyk-1983-edu/wifi-security-auditor)
-Android-додаток (Kotlin/MVVM) для аналізу Wi-Fi мереж — слабке шифрування, несанкціоновані точки доступу.
+PowerShell-скрипт аудиту та захисту Windows 11 — 12 категорій перевірки, автоматичне усунення.
 
 ### [router-security-toolkit](https://github.com/yyvolovyk-1983-edu/router-security-toolkit)
-Python-інструменти для авторизованого тестування роутерів — дефолтні паролі, відкриті сервіси, відомі CVE.
+Python-інструменти для аудиту роутерів — CVE-бекдори, дефолтні паролі, UPnP, SSL.  
+*Реальний кейс: Xiaomi Mi Router AX1800 — 27 знахідок, оцінка D → B+ за 48 годин.*
+
+### [wifi-security-auditor](https://github.com/yyvolovyk-1983-edu/wifi-security-auditor)
+Android-додаток (Kotlin/MVVM) для аналізу Wi-Fi — evil twin, класифікація шифрування.
+
+### [network-security-lab](https://github.com/yyvolovyk-1983-edu/network-security-lab)
+Лабораторія реальних мережевих сканувань — 8 типів Nmap, DNS-фільтрація AdGuard Home.
 
 ---
 
