@@ -1,90 +1,102 @@
-# Hi, I'm Yevhen Volovyk 👋
+<div align="center">
 
-**Network Engineer · Aerospace Tech Specialist · Systems Administration · AI-Assisted Auditing**
+# Євген Воловик · Yevhen Volovyk
 
-> *"Security is not a product, but a process."* — Bruce Schneier
+### Network Security Auditor | Telecom Engineer | MikroTik Specialist
 
----
+*10+ років у телекомунікаціях · Kyivstar · Ветеран ЗСУ · Харків, Україна*
 
-## About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yevhen-volovyk/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:y.y.volovyk@student.khai.edu)
 
-Telecommunications engineer and security practitioner based in **Kharkiv, Ukraine**.  
-Currently pursuing a **Master's degree** in Intelligent Control Systems at **KHAI** — National Aerospace University "Kharkiv Aviation Institute" (2025–2027).
-
-Over **10 years** of hands-on experience in telecom infrastructure (Kyivstar, WinSERVICE Ukraine), network administration, and practical security work.  
-Combat veteran of the Russian-Ukrainian war — served as **Platoon Commander** (2023–2024, Donetsk front) and previously in 2014 (Donetsk & Luhansk regions).
+</div>
 
 ---
 
-## Current Focus
+## Що роблю
 
-- 🔐 Windows security hardening & PowerShell automation
-- 📶 Wi-Fi security auditing (Android app — targeting Google Play deployment)
-- 🤖 AI-assisted multi-agent security workflows (Claude, Gemini, Groq)
-- 🌐 Router & network penetration testing tools
-- 🎓 Master's research: 
-    - State-Space Mathematical Model of X-Configuration UAV Quadrotor in the Roll Channel
-    - Discrete Kalman Filter for State Estimation of X-Configuration UAV Quadrotor in the Roll Channel
-    - Synthesis of Roll Angle Stabilization Law for UAV Quadrotor with PI-Controller and Anti-Windup Correction
-    - AI methods in cybersecurity
+Проводжу **авторизований аудит безпеки** локальних мереж та пристроїв для малого і середнього бізнесу. Результат — технічний звіт з конкретними рекомендаціями та пріоритетами усунення.
 
----
-
-## Technical Stack
-
-**Security & Networking**  
-`Python` `PowerShell` `Bash` `nmap` `Wireshark` `Tcpdump`  
-`TCP/IP` `OSI` `VLAN` `VPN` `Firewall` `NAT` `DHCP`  
-`MikroTik / RouterOS` `Zabbix` `FTTB` `PON` `Ethernet`  
-Penetration testing basics · DDoS mitigation · Windows hardening
-
-**AI & Automation**  
-`Claude` `Gemini` `Groq` · Multi-agent workflows · Security audit automation
-
-**Development**  
-`Kotlin` `Android (MVVM)` `Java` `Python` `Selenium` `OpenCV`
-
-**Systems**  
-`Linux (Ubuntu, Debian, Fedora)` `Windows` `MATLAB` `Simulink`  
-Fiber optic splicing · SCS installation · Telecom infrastructure
+| Напрямок | Що перевіряю | Інструменти |
+|---|---|---|
+| **LAN аудит** | Відкриті порти, сервіси, сегментація | nmap · Wireshark · Netdiscover |
+| **Wi-Fi безпека** | Шифрування, ізоляція, несанкціоновані точки | Aircrack-ng · Android аудитор |
+| **Пристрої мережі** | Роутери, свічі, MikroTik — дефолтні паролі, відомі CVE | RouterOS · Python toolkit |
+| **Windows endpoint** | Служби, автозапуск, права, оновлення | PowerShell audit scripts |
 
 ---
 
-## Projects
+## Стек
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [windows-security-audit](https://github.com/yyvolovyk-1983-edu/windows-security-audit) | PowerShell hardening: unauthorized account detection, SMB/RDP lockdown, audit logging, Defender automation | PowerShell |
-| [wifi-security-auditor](https://github.com/yyvolovyk-1983-edu/wifi-security-auditor) | Android app: evil twin detection, port scanning, network classification | Kotlin / MVVM |
-| [router-security-toolkit](https://github.com/yyvolovyk-1983-edu/router-security-toolkit) | HTTP path scanning, CVE backdoor testing, UPnP/SSDP discovery | Python |
-| [java-selenium-pageobject](https://github.com/yyvolovyk-1983-edu/java-selenium-pageobject) | PageObject pattern, test suite architecture | Java |
-| [video-to-gif](https://github.com/yyvolovyk-1983-edu/video-to-gif) | Video-to-GIF conversion with frame control | Python / OpenCV |
+<div align="center">
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logoColor=white)
 
-## Work Experience
-
-| Period | Role | Company |
-|--------|------|---------|
-| 03.2024 – 04.2026 | Telecom Technician | **Kyivstar**, Kharkiv |
-| 03.2023 – 05.2024 | Platoon Commander | **Ukrainian Defense Forces** |
-| 11.2018 – 03.2023 | ISP Technician | **WinSERVICE Ukraine**, Kharkiv |
-| 07.2012 – 09.2014 | Service Engineer | **MasterService**, Kharkiv |
+</div>
 
 ---
 
-## Education
+## Ключові проекти
 
-| Degree | Institution | Year |
-|--------|-------------|------|
-| 🎓 M.Sc. — Intelligent Control Systems | KHAI (National Aerospace University) | 2025–2027 |
-| 🎖️ Combat application of mechanized units | National Army Academy (Lviv) | 2023 |
-| 🎓 B.Sc. — Economics | KHAI | 2002–2007 |
-| 📜 "Applying Technologies in Wartime" | Prometheus | 2023 |
+### [windows-security-audit](https://github.com/yyvolovyk-1983-edu/windows-security-audit)
+PowerShell-скрипти для автоматичного аудиту безпеки Windows-машин — порти, служби, права, автозапуск, брандмауер.
+
+### [wifi-security-auditor](https://github.com/yyvolovyk-1983-edu/wifi-security-auditor)
+Android-додаток (Kotlin/MVVM) для аналізу Wi-Fi мереж — слабке шифрування, несанкціоновані точки доступу.
+
+### [router-security-toolkit](https://github.com/yyvolovyk-1983-edu/router-security-toolkit)
+Python-інструменти для авторизованого тестування роутерів — дефолтні паролі, відкриті сервіси, відомі CVE.
 
 ---
 
-## Contact
+## Досвід
 
-📧 y.y.volovyk@student.khai.edu  
-📍 Kharkiv, Ukraine
+```
+2024 – 2026   Технік телекомунікацій · Kyivstar
+              Обслуговування мережевої інфраструктури оператора
+
+2023 – 2024   Командир взводу · Збройні Сили України
+              Донецький напрямок
+
+2002 – 2023   Мережевий інженер / Системний адміністратор
+              10+ років у телекомунікаційній інфраструктурі
+```
+
+---
+
+## Освіта
+
+- **M.Sc.** Інтелектуальні системи управління — ХНАДУ/KHAI (2025–2027)
+- **B.Sc.** Економіка — ХНАДУ/KHAI (2002–2007)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yyvolovyk-1983-edu&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yyvolovyk-1983-edu&layout=compact&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+**Відкритий до freelance-аудиту та консультацій**
+
+📧 y.y.volovyk@student.khai.edu
+
+*Кожен аудит проводиться виключно з письмовим дозволом власника системи*
+
+</div>
